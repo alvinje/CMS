@@ -1,2 +1,2 @@
 # CMS
-Projet SLAM CMS
+Projet PPE2 CMS
